@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GestureDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+    
+    <string name="test_area">手势滑动Gesture</string>
+    <string name="user_info">用户信息</string>
+
+</resources>
